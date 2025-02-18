@@ -1,0 +1,6 @@
+Welcome back 
+ This is a new lineAppend operation is taking place
+ Append operation is taking place
+Append operation is taking placeFirst line
+Second line
+Third line
